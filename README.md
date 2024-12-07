@@ -12,6 +12,7 @@
 | Purvesh Patil     | 202152332   |
 | Pushkar Choudhary | 202152333   |
 
+# SETUP
 
 ```sudo apt-get update```
 ```sudo apt-get install -y gnupg wget curl```
