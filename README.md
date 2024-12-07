@@ -1,5 +1,18 @@
 # Research-on-Open-5GS-and-UERANSIM-Grp-Gr55EC431
 
+# Group No. : 55
+# Student Information
+
+| Name              | Student ID  |
+|-------------------|-------------|
+| Abhishek Kumar    | 202151003   |
+| Anish Kumar       | 202151023   |
+| Mayank Kumar      | 202151088   |
+| Shyam Kumar       | 202151154   |
+| Purvesh Patil     | 202152332   |
+| Pushkar Choudhary | 202152333   |
+
+
 ```sudo apt-get update```
 ```sudo apt-get install -y gnupg wget curl```
 
